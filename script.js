@@ -72,4 +72,6 @@ function eliminarTodas()
     MostrarCajitas();
 }
 
+//Este es otro comentario de prueba 
+
 //Este es un comentario de prueba
