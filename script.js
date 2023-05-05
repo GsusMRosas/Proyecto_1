@@ -71,3 +71,5 @@ function eliminarTodas()
     localStorage.setItem("notas",JSON.stringify(arreglo));
     MostrarCajitas();
 }
+
+//Este es un comentario de prueba
